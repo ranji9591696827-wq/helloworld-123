@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>cybersecurity.ditamap</title>
+    <topicref href="cyber_security_concept.dita">
+        <topicref href="untitled2.dita"/>
+        <topicref href="ethical_hacking.dita"/>
+    </topicref>
+    <topicref href="cyber_security_reference.dita"/>
+    <topicref href="strong_password_task.dita"/>
+</map>

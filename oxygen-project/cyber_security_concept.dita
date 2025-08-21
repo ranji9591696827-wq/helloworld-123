@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cyber_security">
+    <title>Introduction to cyber security</title>
+    <shortdesc>Cyber security is the practice of protecting systems ,networks, and data from digital
+        attacks.</shortdesc>
+    <conbody>
+        <p>Cyber security ensures safety of data and systems.</p>
+        <p>It is important for preventing hacking , phishing,and ransomware attacks.</p>
+        <section id="section_qtv_frm_jgc"><title>Key areas</title><p>Cyber security provides
+                multiple domains like network and information security.</p><ul id="ul_crx_mrm_jgc">
+                <li>Network security</li>
+                <li>Application security</li>
+            </ul><image href="../../../Pictures/Screenshots/Screenshot%20(1).png"
+                id="image_h3h_nsm_jgc"/><ol id="ol_j12_5rm_jgc">
+                <li>Threats</li>
+                <li>Detection</li>
+                <li>Response</li>
+            </ol><xref>"task_protect_system.dita</xref></section>
+    </conbody>
+</concept>

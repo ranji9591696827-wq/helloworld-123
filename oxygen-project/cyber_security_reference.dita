@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="cyber_threats">
+    <title>common cyber threats</title>
+    <shortdesc>Reducing the cyber threats is major aim</shortdesc>
+    <refbody>
+        <section id="section_whs_gvm_jgc">
+            <title>overview</title>
+            <p>Cyber threats are malicious activities aimed to damaging,stealing, or disrupting data
+                and systems.</p>
+        </section>
+        <section id="section_j3r_mvm_jgc">
+            <title>types of cyber threats</title>
+            <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_hh2_svm_jgc">
+                <sthead>
+                    <stentry>phising</stentry>
+                    <stentry>ransomeware</stentry>
+                </sthead>
+                <strow>
+                    <stentry>fraud email tricks</stentry>
+                    <stentry>lock files demand for money</stentry>
+                </strow>
+            </simpletable>
+            <p>Like this threats of cyber  attack causes the lose of digital data</p>
+        </section>
+    </refbody>
+</reference>
